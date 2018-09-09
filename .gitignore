@@ -1,0 +1,18 @@
+node_modules
+coverage
+.nyc_output
+.DS_Store
+*.log
+.vscode
+.idea
+compiled
+.awcache
+docs
+.out
+
+# rollup-plugin-typescript2 cache files
+.rpt2_cache
+
+# example bundles
+**/examples.bundle.js
+**/examples.bundle.js.map
