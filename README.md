@@ -30,7 +30,7 @@ other available scripts:
 - `yarn build` to generate dist output
 - `yarn test` to run tests
 - `yarn storybook` to start local storybook
-- `storybook:deploy` to deploy storybook to github pages
+- `yarn storybook:deploy` to deploy storybook to github pages
 
 
 #### Circle CI configuration
