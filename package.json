@@ -1,6 +1,6 @@
 {
   "name": "react-lib-starter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A react component boilerplate with tech stack of react, typescript, sass, jest, storybook, rollup, closure",
   "author": "<your_user_name>",
   "main": "dist/MyComponent.cjs.js",
@@ -79,13 +79,13 @@
     "dist"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/wayou/toos",
+  "homepage": "https://github.com/wayou/react-lib-starter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wayou/toos.git"
+    "url": "https://github.com/wayou/react-lib-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/wayou/toos/issues",
+    "url": "https://github.com/wayou/react-lib-starter/issues",
     "email": "liuwayong@gmail.com"
   },
   "peerDependencies": {
